@@ -1,0 +1,11 @@
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\bin\Debug\zadanie2_kviz.exe.config
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\bin\Debug\zadanie2_kviz.exe
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\bin\Debug\zadanie2_kviz.pdb
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.csproj.AssemblyReference.cache
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.csproj.SuggestedBindingRedirects.cache
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.Form1.resources
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.Properties.Resources.resources
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.csproj.GenerateResource.cache
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.exe
+D:\Google Drive Sync\jaspravim\programovanie\zadanie2_kviz\zadanie2_kviz\obj\Debug\zadanie2_kviz.pdb
